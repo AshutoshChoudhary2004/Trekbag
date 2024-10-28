@@ -30,7 +30,7 @@ export default function AddItemForm({ onAddItem }) {
         }}
         autoFocus
       />
-      <Button>Add to list</Button>
+      <Button text = "Add to list"></Button>
     </form>
   );
 }
