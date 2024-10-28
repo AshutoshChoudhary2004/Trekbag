@@ -1,7 +1,7 @@
 export default function Footer() {
   return (
     <footer>
-      <small>&copy; 2050. Copyright by ByteGrad.</small>
+      <small>&copy; 2050. Copyright by Ashutosh.</small>
       <p>
         Version <b>1.5</b>
       </p>
